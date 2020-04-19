@@ -1,0 +1,3 @@
+ofxPS3EyeGrabber
+ofxKinect
+ofxOpenCv
